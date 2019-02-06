@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 75.0, 56.0, 743.0, 710.0 ],
+		"rect" : [ 34.0, 56.0, 741.0, 710.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -107,7 +107,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 295.25, 311.0, 62.0, 37.0 ],
-					"presentation_linecount" : 2,
 					"text" : "loop on/off",
 					"textcolor" : [ 0.847058832645416, 0.031372550874949, 0.031372550874949, 1.0 ]
 				}
@@ -144,7 +143,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 487.75, 147.0, 57.0, 22.0 ],
-					"presentation_linecount" : 2,
 					"text" : "set piano",
 					"textcolor" : [ 0.964705884456635, 0.964705884456635, 0.964705884456635, 1.0 ]
 				}
@@ -208,7 +206,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 550.5, 362.5, 173.0, 47.0 ],
-					"presentation_linecount" : 3,
 					"text" : "Play with the \"groove breaker controls\" up top for maximum chaos."
 				}
 
@@ -361,7 +358,6 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 68.0, 205.720703125, 128.0, 22.0 ],
-									"presentation_linecount" : 2,
 									"text" : "drawbuffer piano 1000",
 									"textcolor" : [ 0.964705884456635, 0.964705884456635, 0.964705884456635, 1.0 ]
 								}
@@ -711,7 +707,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 3,
 					"numoutlets" : 1,
-					"outlettype" : [ "signal" ],
+					"outlettype" : [ "" ],
 					"patcher" : 					{
 						"fileversion" : 1,
 						"appversion" : 						{
@@ -1340,7 +1336,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 435.75, 120.0, 97.0, 22.0 ],
-					"presentation_linecount" : 3,
 					"text" : "set user_sample",
 					"textcolor" : [ 0.964705884456635, 0.964705884456635, 0.964705884456635, 1.0 ]
 				}
@@ -1995,8 +1990,8 @@
 						"originaltempo" : 120.0,
 						"phase" : [ 0.0, "ticks" ],
 						"pitchcorrection" : 0,
-						"pitchshift" : [ 5.841328563690187 ],
-						"pitchshiftcent" : [ 3056 ],
+						"pitchshift" : [ 1.49442138671875 ],
+						"pitchshiftcent" : [ 696 ],
 						"quality" : "basic",
 						"timestretch" : [ 1 ]
 					}
