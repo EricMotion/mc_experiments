@@ -1,0 +1,1 @@
+open thispatcherfolder "MacBook HD:/Users/ericdavis/Documents/CREATIVE/max_Projects/mc_MW/scripts"folder "MacBook HD:/Users/ericdavis/Documents/CREATIVE/max_Projects/mc_MW/clips"
